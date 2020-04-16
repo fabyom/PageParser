@@ -10,7 +10,7 @@ def ns(tag):
     :param tag: given tag
     :return: combined string
     '''
-    return '{https://www.primaresearch.org/schema/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd}'+tag
+    return '{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}'+tag
 
 
 class PageParser:
