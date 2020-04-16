@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-05T18:49:33</Created>
+	<LastChange>2020-03-05T18:49:33</LastChange></Metadata>
+	<Page imageFilename="Ts-235,1.jpg" imageWidth="5605" imageHeight="6929">
+	<ImageRegion id="r0">
+	<Coords points="3877,503 3877,563 3852,563 3852,642 3947,643 3946,761 4080,761 4081,643 4032,643 4032,542 3984,542 3984,504"/></ImageRegion>
+	<ImageRegion id="r1">
+	<Coords points="5215,347 5202,4084 5261,4084 5274,347"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="911,3720 911,3721 1138,3721 1138,3842 911,3842 911,3841 910,3841 910,3720"/>
+	<TextEquiv conf="0.40333">
+	<Unicode>12.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1137,4065 1137,4147 974,4147 974,4146 973,4146 973,4065"/>
+	<TextEquiv conf="0.90131">
+	<Unicode>13.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1146,4460 1146,4704 1145,4704 1145,4948 1144,4948 1144,5192 1143,5192 1143,5436 1142,5436 1142,5437 970,5437 970,5191 971,5191 971,4947 972,4947 972,4703 973,4703 973,4460"/>
+	<TextEquiv conf="0.86538">
+	<Unicode>14.
+15.
+16.
+17.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1136,5655 1136,5941 1135,5941 1135,5942 968,5942 968,5655"/>
+	<TextEquiv conf="0.93149">
+	<Unicode>18.
+19.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="3873,548 3873,560 3848,560 3848,548"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>SF</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="2302,615 2302,616 2604,616 2604,617 2907,617 2907,618 3210,618 3210,619 3512,619 3512,620 3815,620 3815,621 4118,621 4118,622 4420,622 4420,623 4723,623 4723,624 5025,624 5025,793 5024,793 5024,794 4722,794 4722,793 4419,793 4419,792 4117,792 4117,791 3814,791 3814,790 3511,790 3511,789 3209,789 3209,788 2906,788 2906,787 2603,787 2603,786 2301,786 2301,785 2300,785 2300,784 2301,784 2301,615"/>
+	<TextEquiv conf="0.07488">
+	<Unicode>Ad
+Jderip hans Burkart DE Shall ital
+ef! magt , Oppededb, 3 Ce La</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="4083,904 4083,905 4373,905 4373,1001 1471,1001 1471,904"/>
+	<TextEquiv conf="0.68600">
+	<Unicode>‘Sprache’, '‘Satz', 'Wort', Begriffe des Alltags.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="4842,1094 4842,1275 1456,1275 1456,1274 1455,1274 1455,1094"/>
+	<TextEquiv conf="0.95857">
+	<Unicode>Bedeutung des Worts/ nicht der Gegenstand, auf den sich
+das Wort bezieht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1446,1495 1446,1496 1728,1496 1728,1497 2011,1497 2011,1498 2294,1498 2294,1499 2577,1499 2577,1500 2860,1500 2860,1501 3143,1501 3143,1502 3426,1502 3426,1503 3709,1503 3709,1504 3992,1504 3992,1505 4275,1505 4275,1506 4558,1506 4558,1507 4840,1507 4840,1586 4558,1586 4558,1585 4275,1585 4275,1584 3992,1584 3992,1583 3709,1583 3709,1582 3426,1582 3426,1581 3143,1581 3143,1580 2860,1580 2860,1579 2577,1579 2577,1578 2294,1578 2294,1577 2011,1577 2011,1576 1728,1576 1728,1575 1446,1575 1446,1574 1445,1574 1445,1495"/>
+	<TextEquiv conf="0.83299">
+	<Unicode>Nicht alles, was das Verstehen verursacht, ist eine Er-
+)kxlärung. ,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="2332,1699 2332,1700 2624,1700 2624,1701 2916,1701 2916,1702 3209,1702 3209,1703 3501,1703 3501,1704 3793,1704 3793,1705 4085,1705 4085,1706 4377,1706 4377,1707 4669,1707 4669,1708 4958,1708 4958,1885 1454,1885 1454,1884 1455,1884 1455,1699"/>
+	<TextEquiv conf="0.96469">
+	<Unicode>Ist "Sprache" zu definieren als eine Vorrichtung zu einem
+gewissen Zweck?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="4422,1982 4422,1983 4718,1983 4718,2184 3233,2184 3233,2183 2936,2183 2936,2182 2639,2182 2639,2181 2342,2181 2342,2180 2045,2180 2045,2179 1748,2179 1748,2178 1451,2178 1451,1982"/>
+	<TextEquiv conf="0.77027">
+	<Unicode>Vergleiche 'eine Sprache erfinden‘ mit 'ein Bpiel er-
+finden' und ‘eine Maschine erfinden/'.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1455,2386 1455,2387 1752,2387 1752,2388 2049,2388 2049,2389 2347,2389 2347,2390 2644,2390 2644,2391 2942,2391 2942,2392 3239,2392 3239,2393 3537,2393 3537,2394 3834,2394 3834,2395 4132,2395 4132,2396 4429,2396 4429,2397 4726,2397 4726,2443 4429,2443 4429,2442 4132,2442 4132,2441 3834,2441 3834,2440 3537,2440 3537,2439 3239,2439 3239,2438 2942,2438 2942,2437 2644,2437 2644,2436 2347,2436 2347,2435 2049,2435 2049,2434 1752,2434 1752,2433 1455,2433 1455,2432 1454,2432 1454,2386"/>
+	<TextEquiv conf="0.93767">
+	<Unicode>Die Perforierung des Papierstreifens im Pianola eine
+Sprache?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="1757,2555 1757,2556 2050,2556 2050,2557 2343,2557 2343,2558 2636,2558 2636,2559 2929,2559 2929,2560 3222,2560 3222,2561 3514,2561 3514,2562 3807,2562 3807,2563 4100,2563 4100,2564 4393,2564 4393,2565 4686,2565 4686,2566 4978,2566 4978,2765 1464,2765 1464,2555"/>
+	<TextEquiv conf="0.94688">
+	<Unicode>Die Vorstellung ist kein Bild. Aber ein Bild kann ihr ent-
+sprechen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1471,2847 1471,2848 1749,2848 1749,2849 2028,2849 2028,2850 2307,2850 2307,2851 2585,2851 2585,2852 2864,2852 2864,2853 3143,2853 3143,2854 3422,2854 3422,2855 3700,2855 3700,2856 3979,2856 3979,2857 4258,2857 4258,2858 4536,2858 4536,3115 4535,3115 4535,3367 2583,3367 2583,3366 2305,3366 2305,3365 2026,3365 2026,3364 1747,3364 1747,3363 1470,3363 1470,2847"/>
+	<TextEquiv conf="0.91091">
+	<Unicode>"Wie lernt man: sich dies e Farbe vorstellen?"
+Private Rechtfertigung meiner Worte.
+"Ich", "hier", "dieses", sind nicht Namen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="4441,3469 4441,3470 4738,3470 4738,3664 2361,3664 2361,3663 2064,3663 2064,3662 1767,3662 1767,3661 1470,3661 1470,3660 1469,3660 1469,3659 1470,3659 1470,3469"/>
+	<TextEquiv conf="0.93920">
+	<Unicode>Ist die Verwendung des Worts seine Bedeutung, so kann
+"ich" nicht bedeuten, was ein Eigenname bedeutet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="2634,3772 2634,3773 2925,3773 2925,3774 3217,3774 3217,3775 3508,3775 3508,3776 3799,3776 3799,3777 4091,3777 4091,3778 4382,3778 4382,3779 4673,3779 4673,3780 4964,3780 4964,3960 1468,3960 1468,3772"/>
+	<TextEquiv conf="0.94521">
+	<Unicode>In$rospektion, ein Schauen. Was sind die Kriterien dafür,
+daß es vor sich geht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="2597,4052 2597,4053 2880,4053 2880,4054 3164,4054 3164,4055 3447,4055 3447,4056 3730,4056 3730,4057 4014,4057 4014,4058 4297,4058 4297,4059 4580,4059 4580,4060 4863,4060 4863,4339 1463,4339 1463,4338 1462,4338 1462,4337 1463,4337 1463,4052"/>
+	<TextEquiv conf="0.87250">
+	<Unicode>Konzentrieren der #ufmerksamkeit, ein inneres Zeigen?
+Worauf zeigen wir, indem wir auf etwas schauen?7Z, auf ein
+Geräusch horchen?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="3448,4464 3448,4465 3731,4465 3731,4466 4014,4466 4014,4467 4297,4467 4297,4468 4580,4468 4580,4469 4863,4469 4863,4650 1465,4650 1465,4649 1466,4649 1466,4464"/>
+	<TextEquiv conf="0.85705">
+	<Unicode>Der Satz vom ausgeschlossenen Dritten kann ein philoso-
+phisches Problem verstecken. 8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="2050,4746 2050,4747 2343,4747 2343,4748 2635,4748 2635,4749 2927,4749 2927,4750 3220,4750 3220,4751 3512,4751 3512,4752 3804,4752 3804,4753 4097,4753 4097,4754 4389,4754 4389,4755 4681,4755 4681,4936 1465,4936 1465,4935 1464,4935 1464,4934 1465,4934 1465,4746"/>
+	<TextEquiv conf="0.96195">
+	<Unicode>Ist die Sprache als Vorrichtung für einen bestimmten
+Zweck zu definieren?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="2015,5058 2015,5059 2294,5059 2294,5060 2573,5060 2573,5061 2852,5061 2852,5062 3131,5062 3131,5063 3410,5063 3410,5064 3689,5064 3689,5065 3968,5065 3968,5066 4247,5066 4247,5067 4526,5067 4526,5068 4804,5068 4804,5155 1519,5155 1519,5058"/>
+	<TextEquiv conf="0.96286">
+	<Unicode>Nicht alles, was das Verstehen verursacht, ist eine Er</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="3241,5360 3241,5361 3539,5361 3539,5362 3837,5362 3837,5363 4134,5363 4134,5364 4432,5364 4432,5365 4729,5365 4729,5553 2051,5553 2051,5552 1753,5552 1753,5551 1456,5551 1456,5550 1455,5550 1455,5360"/>
+	<TextEquiv conf="0.83361">
+	<Unicode>Bedeutung: das, was den Ausdruck bedeutungsvoll, d.h.
+wicht ig , macht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="3447,5638 3447,5639 3722,5639 3722,5640 3997,5640 3997,5641 4272,5641 4272,5642 4546,5642 4546,5756 2897,5756 2897,5755 2622,5755 2622,5754 2347,5754 2347,5753 2072,5753 2072,5752 1797,5752 1797,5751 1523,5751 1523,5750 1522,5750 1522,5749 1523,5749 1523,5638"/>
+	<TextEquiv conf="0.96530">
+	<Unicode>Bedeutung: das Gefühl, das den Ausdruck begleitet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="2400,5863 2400,5864 2690,5864 2690,5865 2980,5865 2980,5866 3271,5866 3271,5867 3561,5867 3561,5868 3851,5868 3851,5869 4142,5869 4142,5870 4432,5870 4432,5871 4722,5871 4722,5872 4982,5872 4982,5960 1528,5960 1528,5863"/>
+	<TextEquiv conf="0.95516">
+	<Unicode>Ist Verstehen, Meinen, Denken eine Begleitung des Redens?</Unicode></TextEquiv></TextRegion></Page></PcGts>
