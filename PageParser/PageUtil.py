@@ -25,6 +25,7 @@ class PagePage:
         line.page_id = self.page_id
         self.lines.append(line)
 
+
 class PageDocument:
     '''
 

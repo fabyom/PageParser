@@ -2,7 +2,7 @@ import sys, os
 sys.path.append(os.path.join(os.path.dirname(__file__),'..','..'))
 
 from lxml import etree
-from Page import *
+from PageUtil import *
 
 def ns(tag):
     '''
