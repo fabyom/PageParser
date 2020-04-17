@@ -1,7 +1,7 @@
 import sys, os
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
 
-import argparse, jsonpickle
+import argparse, jsonpickle, re
 
 from PageParser import PageParser
 
@@ -15,6 +15,24 @@ def save_json(parser, path):
     jsonpickle.set_encoder_options('json', indent=4, ensure_ascii=False)
     with open(path, 'w', encoding='utf-8') as file:
         file.write(jsonpickle.dumps(parser.document, unpicklable=False))
+    json_clean_up(path)
+
+
+
+def json_clean_up(jsonfile):
+    '''
+    hacky lösung
+    JSON Datei enthält am ende jedes dokumentes Einträge mit den wert 'null'
+    TO-DO: nachschauen warum überhaupt null geprinted wird
+    :param jsonfile:
+    :return:
+    '''
+    #TODO!!!
+    with open(jsonfile,encoding='utf-8') as file:
+            for line in file:
+                if(re.match(r'.+null.+\n',line)):
+                    re.sub(r'.+\n','',line)
+
 
 
 # Call: ./PageParser.py page-path document-name json-path
