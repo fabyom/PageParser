@@ -2,7 +2,7 @@ class PageLine:
     '''
 
     '''
-    def __init__(self,line_id,content,hpos,vpos,height,width):
+    def __init__(self, line_id, content, hpos, vpos, height, width):
         self.page_id = ''
         self.line_id = line_id
         self.text = content
@@ -17,11 +17,11 @@ class PagePage:
     '''
 
     '''
-    def __init__(self,page_id):
+    def __init__(self, page_id):
         self.page_id = page_id
-        self.lines=[]
+        self.lines = []
 
-    def add_line(self,line):
+    def add_line(self, line):
         line.page_id = self.page_id
         self.lines.append(line)
 
@@ -34,5 +34,5 @@ class PageDocument:
         self.document_id = document_id
         self.pages = []
 
-    def add_page(self,page):
+    def add_page(self, page):
         self.pages.append(page)

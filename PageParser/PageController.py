@@ -15,11 +15,11 @@ def save_json(parser, path):
     jsonpickle.set_encoder_options('json', indent=4, ensure_ascii=False)
     with open(path, 'w', encoding='utf-8') as file:
         file.write(jsonpickle.dumps(parser.document, unpicklable=False))
-    json_clean_up(path)
 
 
 
-def json_clean_up(jsonfile):
+
+def json_clean_up(jsonfile):     # notfalllösung
     '''
     hacky lösung
     JSON Datei enthält am ende jedes dokumentes Einträge mit den wert 'null'
@@ -28,10 +28,10 @@ def json_clean_up(jsonfile):
     :return:
     '''
     #TODO!!!
-    with open(jsonfile,encoding='utf-8') as file:
+    with open(jsonfile, encoding='utf-8') as file:
             for line in file:
                 if(re.match(r'.+null.+\n',line)):
-                    re.sub(r'.+\n','',line)
+                    re.sub(r'.+\n', '', line)
 
 
 
