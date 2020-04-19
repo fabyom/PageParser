@@ -48,8 +48,6 @@ def main():
     # Actual arguments when calling from command line
     #page_path, document_id, json_path = handle_args()
 
-    #parser = PageParser()
-    #parser = PageParser('./','./json')
     parser = PageParser(page_path, document_id)
     parser.read_files()
     save_json(parser, json_path)
